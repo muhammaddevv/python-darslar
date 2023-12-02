@@ -1,2 +1,2 @@
 # python-darslar
-ushbu repositoriyda python darslarimga oid kodlar joylangan
+ushbu repositoriyda python darslarimga oid kodlar jamlangan
