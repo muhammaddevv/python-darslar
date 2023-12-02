@@ -5,7 +5,7 @@ Created on Fri Oct 20 07:50:18 2023
 @author: user
 """
 
-BOOLEAN
+# BOOLEAN darsi
 
 narh = 20000
 choy = True
