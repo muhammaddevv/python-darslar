@@ -5,7 +5,7 @@
 
 
 #til = {'apple':'olma', 'lemon':'limon', 'apricot':'o\'rik'}
-# print(til['snake'])
+# print(til['lemon'])
 
 #mevalar = {'olma':15000, 'banan':22000, 'qovun':35000}
 #print(f"olmaning narxi {mevalar['olma']} so'm")
